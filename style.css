@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cs-font';
-  src:  url('fonts/cs-font.eot?fxtrvo');
-  src:  url('fonts/cs-font.eot?fxtrvo#iefix') format('embedded-opentype'),
-    url('fonts/cs-font.ttf?fxtrvo') format('truetype'),
-    url('fonts/cs-font.woff?fxtrvo') format('woff'),
-    url('fonts/cs-font.svg?fxtrvo#cs-font') format('svg');
+  src:  url('fonts/cs-font.eot?n2vhtp');
+  src:  url('fonts/cs-font.eot?n2vhtp#iefix') format('embedded-opentype'),
+    url('fonts/cs-font.ttf?n2vhtp') format('truetype'),
+    url('fonts/cs-font.woff?n2vhtp') format('woff'),
+    url('fonts/cs-font.svg?n2vhtp#cs-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,36 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-orders2:before {
+  content: "\e90f";
+}
+.icon-bag:before {
+  content: "\e910";
+}
+.icon-account:before {
+  content: "\e911";
+}
+.icon-check:before {
+  content: "\e912";
+}
+.icon-back:before {
+  content: "\e913";
+}
+.icon-close:before {
+  content: "\e914";
+}
+.icon-add:before {
+  content: "\e915";
+}
+.icon-fav:before {
+  content: "\e916";
+}
+.icon-shareAn:before {
+  content: "\e917";
+}
+.icon-shareIos:before {
+  content: "\e918";
+}
 .icon-cart:before {
   content: "\e90e";
 }
