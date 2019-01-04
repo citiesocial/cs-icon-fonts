@@ -2,7 +2,7 @@
 
 citiesocial web & app 使用之 [icon font](https://citiesocial.github.io/cs-icon-fonts/)
 
-# Version 1.1
+# Version 1.2
 | 時間 | 版本 |
 |--|--|
 | 2018/11/09 | 1.0 |
