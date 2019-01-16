@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cs-font';
-  src:  url('fonts/cs-font.eot?n2vhtp');
-  src:  url('fonts/cs-font.eot?n2vhtp#iefix') format('embedded-opentype'),
-    url('fonts/cs-font.ttf?n2vhtp') format('truetype'),
-    url('fonts/cs-font.woff?n2vhtp') format('woff'),
-    url('fonts/cs-font.svg?n2vhtp#cs-font') format('svg');
+  src:  url('fonts/cs-font.eot?qfrwhj');
+  src:  url('fonts/cs-font.eot?qfrwhj#iefix') format('embedded-opentype'),
+    url('fonts/cs-font.ttf?qfrwhj') format('truetype'),
+    url('fonts/cs-font.woff?qfrwhj') format('woff'),
+    url('fonts/cs-font.svg?qfrwhj#cs-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-shipping:before {
+  content: "\e919";
+}
 .icon-orders2:before {
   content: "\e90f";
 }
