@@ -9,4 +9,4 @@ citiesocial web & app 使用之 [icon font](https://citiesocial.github.io/cs-ico
 | 2018/12/07 | 1.1 |
 | 2019/01/04 | [1.2](https://github.com/citiesocial/cs-icon-fonts/releases/tag/v1.2) |
 | 2019/01/16 | [1.3](https://github.com/citiesocial/cs-icon-fonts/releases/tag/v1.3) |
-| 2019/02/12 | 1.4 |
+| 2019/02/12 | [1.4](https://github.com/citiesocial/cs-icon-fonts/releases/tag/v1.4) |
