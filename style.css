@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cs-font';
-  src:  url('fonts/cs-font.eot?vgfiaa');
-  src:  url('fonts/cs-font.eot?vgfiaa#iefix') format('embedded-opentype'),
-    url('fonts/cs-font.ttf?vgfiaa') format('truetype'),
-    url('fonts/cs-font.woff?vgfiaa') format('woff'),
-    url('fonts/cs-font.svg?vgfiaa#cs-font') format('svg');
+  src:  url('fonts/cs-font.eot?px96xd');
+  src:  url('fonts/cs-font.eot?px96xd#iefix') format('embedded-opentype'),
+    url('fonts/cs-font.ttf?px96xd') format('truetype'),
+    url('fonts/cs-font.woff?px96xd') format('woff'),
+    url('fonts/cs-font.svg?px96xd#cs-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,18 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-account-soild:before {
+  content: "\e91c";
+}
+.icon-catogories-solid:before {
+  content: "\e91d";
+}
+.icon-fav-solid:before {
+  content: "\e91e";
+}
+.icon-flash-solid:before {
+  content: "\e91f";
+}
 .icon-home-solid:before {
   content: "\e91b";
 }
