@@ -2,7 +2,7 @@
 
 citiesocial web & app 使用之 [icon font](https://citiesocial.github.io/cs-icon-fonts/)
 
-# Version 1.5
+# Version 1.7
 | 時間 | 版本 |
 |--|--|
 | 2018/11/09 | 1.0 |
@@ -12,3 +12,4 @@ citiesocial web & app 使用之 [icon font](https://citiesocial.github.io/cs-ico
 | 2019/02/12 | [1.4](https://github.com/citiesocial/cs-icon-fonts/releases/tag/v1.4) |
 | 2019/02/18 | [1.5](https://github.com/citiesocial/cs-icon-fonts/releases/tag/v1.5) |
 | 2019/07/23 | [1.6](https://github.com/citiesocial/cs-icon-fonts/releases/tag/v1.6) |
+| 2019/07/23 | [1.7]() |

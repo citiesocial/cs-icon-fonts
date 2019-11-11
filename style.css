@@ -1,12 +1,13 @@
 @font-face {
   font-family: 'cs-font';
-  src:  url('fonts/cs-font.eot?hsau72');
-  src:  url('fonts/cs-font.eot?hsau72#iefix') format('embedded-opentype'),
-    url('fonts/cs-font.ttf?hsau72') format('truetype'),
-    url('fonts/cs-font.woff?hsau72') format('woff'),
-    url('fonts/cs-font.svg?hsau72#cs-font') format('svg');
+  src:  url('fonts/cs-font.eot?ri9hby');
+  src:  url('fonts/cs-font.eot?ri9hby#iefix') format('embedded-opentype'),
+    url('fonts/cs-font.ttf?ri9hby') format('truetype'),
+    url('fonts/cs-font.woff?ri9hby') format('woff'),
+    url('fonts/cs-font.svg?ri9hby#cs-font') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 i {
@@ -24,6 +25,30 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-lowPrice:before {
+  content: "\e936";
+}
+.icon-hot-solid:before {
+  content: "\e92f";
+}
+.icon-hot:before {
+  content: "\e930";
+}
+.icon-earlyBird:before {
+  content: "\e931";
+}
+.icon-firstSale:before {
+  content: "\e932";
+}
+.icon-info:before {
+  content: "\e933";
+}
+.icon-security:before {
+  content: "\e934";
+}
+.icon-topGift:before {
+  content: "\e935";
+}
 .icon-arrowDown:before {
   content: "\e920";
 }
